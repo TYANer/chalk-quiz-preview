@@ -1,0 +1,14 @@
+{
+  "name": "chalk-quiz 预览",
+  "short_name": "chalk-quiz 预览",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
